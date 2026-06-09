@@ -218,7 +218,5 @@ For product specifications, compatibility guidance, deployment recommendations, 
 | 1000Base LX Singlemode SFP Module |
 | Bidirectional SFP Module |
 | 10G SFP+ Transceiver |
-| CWDM SFP Module |
-| DWDM SFP Module |
 
 ---
